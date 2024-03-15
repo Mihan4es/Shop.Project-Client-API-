@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-f7df1e?logo=typeScript&logoColor=black)
 ![API](https://img.shields.io/badge/-api-yellow)
-![Epxress.js](https://img.shields.io/badge/-express-yellow)
+![Epxress.js](https://img.shields.io/badge/-express.js-yellow)
 
 
 # Запуск проекта
